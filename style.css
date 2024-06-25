@@ -1,0 +1,29 @@
+body{
+font-family:  Georgia, 'Times New Roman', Times, serif;
+background-color:  #ffbf80;
+}
+
+h1{
+font-family:  Georgia, 'Times New Roman', Times, serif;
+color:white;
+}
+
+.all{
+    text-align: center;
+}
+ul{
+
+    display: inline-block;
+  
+}
+img {
+    border-radius: 5%;
+  }
+
+::-webkit-scrollbar{
+background-color: ff9933;
+    color: ff9933;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
